@@ -1,4 +1,4 @@
 # Py-relatorio-de-compra
-A função do programa é poder inserir varios valores de uma compra, divididos em categorias,
-assim podendo ter uma melhor vizualição de valores para uma projeção futura melhor em relação 
+A função do programa é poder inserir vários valores de uma compra, dividindo-se em categorias,
+assim podendo ter uma melhor vizualição de valores para uma melhor projeção futura em relação 
 a economia.
